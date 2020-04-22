@@ -3,6 +3,6 @@
 ### Python version 3.6.9
 ### Environment: CSE_VLAB
 ### I write a simple script to help initialize all peers.
-### Use command "./setup" to run 
+### Use command "./init_python.sh" to run 
 ### In terminal windows, user can type some action command such as "Quit", "Request", "Store"...
 ### User can also press Ctrl+C to kill the peer ungracefully.
